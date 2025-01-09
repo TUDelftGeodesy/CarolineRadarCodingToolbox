@@ -1,4 +1,4 @@
-The Toolbox was developed by Paolo Bazzocchi. Official repository is: https://github.com/Pbaz98/Caroline-Radar-Coding-Toolbox
+The Toolbox was developed by Paolo Bazzocchi. Official repository can be found at: https://github.com/Pbaz98/Caroline-Radar-Coding-Toolbox
 
 # Caroline Radar-Coding Toolbox (CRCT)
 v1.0 - 27/03/2024
